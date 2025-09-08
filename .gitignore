@@ -1,0 +1,9 @@
+# Bỏ tất cả
+*
+
+# Giữ lại folder code_t
+!code_t/
+!code_t/*.py
+
+# Giữ README nếu cần
+!README.md
